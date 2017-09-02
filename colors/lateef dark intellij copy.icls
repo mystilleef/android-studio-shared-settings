@@ -4,7 +4,7 @@
     <property name="created">2017-03-15T00:11:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-09-02T05:22:12</property>
+    <property name="modified">2017-09-02T05:34:08</property>
     <property name="originalScheme">lateef dark</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow JAVA">false</property>
@@ -482,7 +482,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="333333" />
-        <option name="EFFECT_COLOR" value="666666" />
+        <option name="EFFECT_COLOR" value="555555" />
         <option name="ERROR_STRIPE_COLOR" value="333333" />
       </value>
     </option>
@@ -1054,7 +1054,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="444444" />
-        <option name="EFFECT_COLOR" value="666666" />
+        <option name="EFFECT_COLOR" value="555555" />
         <option name="ERROR_STRIPE_COLOR" value="444444" />
       </value>
     </option>
