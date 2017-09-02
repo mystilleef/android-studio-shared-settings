@@ -1,14 +1,11 @@
-<scheme name="lateef dark intellij copy" version="142" parent_scheme="Darcula">
+<scheme name="Custom" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2017-03-15T00:11:56</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-09-02T06:07:14</property>
-    <property name="originalScheme">lateef dark</property>
-    <property name="rainbow Default language">true</property>
-    <property name="rainbow JAVA">false</property>
-    <property name="rainbow ObjectiveC">false</property>
+    <property name="created">2017-09-02T06:25:36</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.0.0.12</property>
+    <property name="modified">2017-09-02T06:36:12</property>
+    <property name="originalScheme">lateef dark intellij copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -435,7 +432,7 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="444444" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="555555" />
         <option name="ERROR_STRIPE_COLOR" value="444444" />
       </value>
     </option>
@@ -473,6 +470,7 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD">
@@ -516,11 +514,47 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value>
         <option name="FOREGROUND" value="999999" />
         <option name="BACKGROUND" value="222222" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -599,6 +633,78 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JSON.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.BRACES">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.COLON">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.INVALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ffa500" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="315173" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KDOC_LINK">
       <value>
         <option name="FOREGROUND" value="315173" />
@@ -1064,6 +1170,14 @@
         <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="2b372e" />
@@ -1182,29 +1296,53 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="5c7f4e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="XML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="555555" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG_DATA">
       <value>
         <option name="FOREGROUND" value="999999" />
+        <option name="BACKGROUND" value="222222" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
