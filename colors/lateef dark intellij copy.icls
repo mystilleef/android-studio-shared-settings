@@ -4,7 +4,7 @@
     <property name="created">2017-03-15T00:11:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-09-02T04:31:06</property>
+    <property name="modified">2017-09-02T05:02:09</property>
     <property name="originalScheme">lateef dark</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow JAVA">false</property>
@@ -74,13 +74,25 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="Abstract class name">
+      <value>
+        <option name="FOREGROUND" value="522554" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Anonymous class name">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
         <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -145,6 +157,13 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class">
+      <value>
+        <option name="FOREGROUND" value="bf9834" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
@@ -278,7 +297,6 @@
         <option name="BACKGROUND" value="a52a2a" />
         <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -405,9 +423,8 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="444444" />
-        <option name="EFFECT_COLOR" value="ff4500" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="444444" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -421,7 +438,15 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
+      </value>
+    </option>
+    <option name="Enum name">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -436,14 +461,9 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Groovydoc comment">
-      <value>
-        <option name="FOREGROUND" value="415b8a" />
-      </value>
-    </option>
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HTML_CODE">
       <value>
         <option name="FOREGROUND" value="999999" />
@@ -462,7 +482,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="333333" />
-        <option name="EFFECT_COLOR" value="999999" />
+        <option name="EFFECT_COLOR" value="444444" />
         <option name="ERROR_STRIPE_COLOR" value="333333" />
       </value>
     </option>
@@ -494,6 +514,26 @@
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="335b84" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Instance field">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+        <option name="EFFECT_COLOR" value="5c7f4e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Instance property reference ID">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Interface name">
       <value>
         <option name="FOREGROUND" value="335b84" />
         <option name="FONT_TYPE" value="1" />
@@ -824,6 +864,12 @@
         <option name="FOREGROUND" value="bf9834" />
       </value>
     </option>
+    <option name="List/map to object conversion">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MARKDOWN_HEADER_LEVEL_2">
       <value>
         <option name="FOREGROUND" value="ff4500" />
@@ -849,6 +895,11 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -931,6 +982,21 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="Static field">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
@@ -949,10 +1015,23 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="Trait name">
+      <value>
+        <option name="FOREGROUND" value="335b84" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Type parameter">
+      <value>
+        <option name="FOREGROUND" value="7d573a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -963,11 +1042,20 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="555555" />
+        <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
+      </value>
+    </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="555555" />
-        <option name="EFFECT_COLOR" value="999999" />
-        <option name="ERROR_STRIPE_COLOR" value="555555" />
+        <option name="BACKGROUND" value="444444" />
+        <option name="EFFECT_COLOR" value="444444" />
+        <option name="ERROR_STRIPE_COLOR" value="444444" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -982,9 +1070,8 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
