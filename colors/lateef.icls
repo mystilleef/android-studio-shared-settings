@@ -4,7 +4,7 @@
     <property name="created">2017-09-03T14:15:55</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.12</property>
-    <property name="modified">2017-09-10T07:14:19</property>
+    <property name="modified">2017-09-10T09:15:17</property>
     <property name="originalScheme">Darcula copy</property>
     <property name="rainbow JAVA">false</property>
     <property name="rainbow kotlin">false</property>
@@ -1728,6 +1728,12 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+      </value>
+    </option>
+    <option name="Unused entry">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Valid string escape">
