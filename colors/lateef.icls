@@ -4,7 +4,7 @@
     <property name="created">2017-09-03T14:15:55</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.12</property>
-    <property name="modified">2017-09-09T15:32:01</property>
+    <property name="modified">2017-09-10T07:14:19</property>
     <property name="originalScheme">Darcula copy</property>
     <property name="rainbow JAVA">false</property>
     <property name="rainbow kotlin">false</property>
@@ -23,7 +23,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="2d2d2d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="222222" />
-    <option name="DOCUMENTATION_COLOR" value="3f3f3f" />
+    <option name="DOCUMENTATION_COLOR" value="0" />
     <option name="ERROR_HINT" value="3f0005" />
     <option name="GUTTER_BACKGROUND" value="222222" />
     <option name="INDENT_GUIDE" value="333333" />
@@ -52,8 +52,8 @@
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="600091" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="406391" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -758,8 +758,8 @@
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="406391" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="600091" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
