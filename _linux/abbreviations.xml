@@ -1,0 +1,52 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoSuperMethod">
+        <abbreviation name="sup" />
+      </action>
+      <action id="QuickJavaDoc">
+        <abbreviation name="wtf" />
+        <abbreviation name="wtfd" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
+      </action>
+      <action id="QuickImplementations">
+        <abbreviation name="wtfc" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="GotoDeclaration">
+        <abbreviation name="decl" />
+        <abbreviation name="dclr" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="ren" />
+      </action>
+      <action id="GotoImplementation">
+        <abbreviation name="impl" />
+      </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="restart" />
+        <abbreviation name="reboot" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="RearrangeCode">
+        <abbreviation name="rer" />
+      </action>
+      <action id="Exit">
+        <abbreviation name="quit" />
+        <abbreviation name="exit" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
