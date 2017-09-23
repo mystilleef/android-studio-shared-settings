@@ -45,13 +45,11 @@
     <entry key="ide.popup.dropShadow" value="true" />
     <entry key="ide.require.transaction.for.model.changes" value="true" />
     <entry key="ide.scroll.thumb.small.if.opaque" value="true" />
-    <entry key="ide.showIndexRebuildMessage" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.transparency.mode.for.windows" value="true" />
     <entry key="ide.tree.checkStructure" value="true" />
     <entry key="ide.tree.expandRecursionDepth" value="1000" />
-    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="inplace.change.signature" value="true" />
     <entry key="java.annotations.inference.nullable.method" value="true" />
@@ -70,7 +68,6 @@
     <entry key="show.configurables.ids.in.settings" value="true" />
     <entry key="structureView.coalesceTime" value="1000" />
     <entry key="suppress.focus.stealing" value="true" />
-    <entry key="type.ahead.logging.enabled" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
   </component>
 </application>
