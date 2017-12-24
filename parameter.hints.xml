@@ -11,6 +11,7 @@
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="java.simple.sequentially.numbered" value="false" />
     <option id="java.method.name.contains.parameter.name" value="false" />
   </component>
 </application>
