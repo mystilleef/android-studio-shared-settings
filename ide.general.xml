@@ -22,7 +22,7 @@
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="compiler.ref.index" value="true" />
     <entry key="core.pooled.threads" value="1000" />
-    <entry key="custom.folding.max.lookup.depth" value="100" />
+    <entry key="custom.folding.max.lookup.depth" value="10" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="editor.reformat.on.typing" value="true" />
@@ -45,8 +45,8 @@
     <entry key="ide.popup.auto.delay" value="10" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="100" />
-    <entry key="ide.tree.expandRecursionDepth" value="100" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="10" />
+    <entry key="ide.tree.expandRecursionDepth" value="10" />
     <entry key="ide.tree.uiLockAttempt" value="10" />
     <entry key="ide.tree.waitForReadyTimeout" value="10" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
