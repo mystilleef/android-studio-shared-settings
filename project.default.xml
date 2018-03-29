@@ -1,0 +1,142 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AndroidDexCompilerConfiguration">
+        <option name="VM_OPTIONS" value="-server -Xms1g -Xmx8g -XX:+AggressiveOpts -XX:+UseG1GC -XX:ReservedCodeCacheSize=1g -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=5 -XX:ConcGCThreads=5 -XX:CICompilerCount=5 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
+        <option name="MAX_HEAP_SIZE" value="4096" />
+        <option name="PROGUARD_VM_OPTIONS" value="-server -Xms1g -Xmx8g -XX:+AggressiveOpts -XX:+UseG1GC -XX:ReservedCodeCacheSize=1g -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=5 -XX:ConcGCThreads=5 -XX:CICompilerCount=5 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
+      </component>
+      <component name="AndroidGradleBuildConfiguration">
+        <option name="SYNC_PROJECT_BEFORE_BUILD" value="true" />
+        <option name="COMMAND_LINE_OPTIONS" value="--build-cache --configure-on-demand --max-workers=5 --parallel" />
+      </component>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="CommitMessageInspectionProfile">
+        <profile version="1.0">
+          <inspection_tool class="BodyLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="CommitMessageSpellChecking" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SubjectBodySeparation" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="RIGHT_MARGIN" value="50" />
+          </inspection_tool>
+        </profile>
+      </component>
+      <component name="CompilerConfiguration">
+        <option name="BUILD_PROCESS_HEAP_SIZE" value="4096" />
+        <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-server -Xms1g -Xmx750m -XX:+AggressiveOpts -XX:+UseG1GC -XX:ReservedCodeCacheSize=1g -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=5 -XX:ConcGCThreads=5 -XX:CICompilerCount=5 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+        <option name="PARALLEL_COMPILATION" value="true" />
+        <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-server -Xms1g -Xmx8g -XX:+AggressiveOpts -XX:+UseG1GC -XX:ReservedCodeCacheSize=1g -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=5 -XX:ConcGCThreads=5 -XX:CICompilerCount=5 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
+      </component>
+      <component name="FindBugs-IDEA">
+        <analysisEffort>max</analysisEffort>
+        <minPriority>High</minPriority>
+        <plugins>
+          <plugin id="com.h3xstream.findsecbugs" enabled="true" bundled="true" />
+          <plugin id="com.mebigfatguy.fbcontrib" enabled="true" bundled="true" />
+          <plugin id="jp.f.dev.findbugs.detect.android" enabled="true" bundled="true" />
+        </plugins>
+        <detectors>
+          <detector name="BadAppletConstructor" enabled="true" />
+          <detector name="CallToUnsupportedMethod" enabled="true" />
+          <detector name="CheckExpectedWarnings" enabled="true" />
+          <detector name="CovariantArrayAssignment" enabled="true" />
+          <detector name="EmptyZipFileEntry" enabled="true" />
+          <detector name="FindCircularDependencies" enabled="true" />
+          <detector name="InefficientIndexOf" enabled="true" />
+          <detector name="InefficientInitializationInsideLoop" enabled="true" />
+          <detector name="InefficientMemberAccess" enabled="true" />
+          <detector name="InefficientToArray" enabled="true" />
+          <detector name="PublicSemaphores" enabled="true" />
+          <detector name="UselessSubclassMethod" enabled="true" />
+        </detectors>
+      </component>
+      <component name="FindBugs-IDEA-Workspace">
+        <analyzeAfterCompile>true</analyzeAfterCompile>
+        <analyzeAfterAutoMake>true</analyzeAfterAutoMake>
+        <runInBackground>true</runInBackground>
+        <toolWindowToFront>false</toolWindowToFront>
+      </component>
+      <component name="Kotlin2JvmCompilerArguments">
+        <option name="jvmTarget" value="1.8" />
+      </component>
+      <component name="KotlinCommonCompilerArguments">
+        <option name="coroutinesState" value="enable" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="lateef" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager">
+        <ConfirmationsSetting value="2" id="Add" />
+        <ConfirmationsSetting value="2" id="Remove" />
+      </component>
+      <component name="ProjectResources">
+        <xml-schema-version>XMLSchema_1_1</xml-schema-version>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Documents/Projects/Android/Sdk" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="ValidationConfiguration">
+        <option name="VALIDATE_ON_BUILD" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+        <confirmRemoveEmptyChangelist value="2" />
+        <option name="SHOW_PATCH_IN_EXPLORER" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
