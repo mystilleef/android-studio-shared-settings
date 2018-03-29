@@ -22,8 +22,8 @@
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="compiler.ref.index" value="true" />
-    <entry key="core.pooled.threads" value="1000" />
-    <entry key="custom.folding.max.lookup.depth" value="1000" />
+    <entry key="core.pooled.threads" value="5" />
+    <entry key="custom.folding.max.lookup.depth" value="9999" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="editor.reformat.on.typing" value="true" />
