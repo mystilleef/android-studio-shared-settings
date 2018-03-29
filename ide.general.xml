@@ -58,7 +58,6 @@
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="navBar.updateMergeTime" value="10" />
     <entry key="navBar.userActivityMergeTime" value="10" />
-    <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="show.configurables.ids.in.settings" value="true" />
