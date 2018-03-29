@@ -45,8 +45,6 @@
     <entry key="ide.popup.auto.delay" value="10" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="9999" />
-    <entry key="ide.tree.expandRecursionDepth" value="9999" />
     <entry key="ide.tree.uiLockAttempt" value="10" />
     <entry key="ide.tree.waitForReadyTimeout" value="10" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
