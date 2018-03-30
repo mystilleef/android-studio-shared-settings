@@ -1,0 +1,34 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="ShowRegistry">
+        <abbreviation name="reg" />
+      </action>
+      <action id="RefactoringMenuRenameFile">
+        <abbreviation name="rnmf" />
+      </action>
+      <action id="Vcs.QuickListPopupAction">
+        <abbreviation name="vcs" />
+      </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="rst" />
+        <abbreviation name="reboot" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
+      </action>
+      <action id="CheckinProject">
+        <abbreviation name="cmt" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
