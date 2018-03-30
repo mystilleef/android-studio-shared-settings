@@ -17,31 +17,27 @@
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="core.pooled.threads" value="1000" />
-    <entry key="custom.folding.max.lookup.depth" value="9999" />
+    <entry key="custom.folding.max.lookup.depth" value="999999" />
     <entry key="compiler.ref.index" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
-    <entry key="compiler.max.static.constants.searches" value="9999" />
+    <entry key="compiler.max.static.constants.searches" value="999999" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="ide.autoscroll.from.source.delay" value="10" />
-    <entry key="ide.completion.variant.limit" value="10" />
-    <entry key="ide.dfa.state.limit" value="99999" />
-    <entry key="ide.dfa.time.limit.online" value="99999" />
+    <entry key="ide.completion.variant.limit" value="20" />
+    <entry key="ide.dfa.state.limit" value="999999" />
+    <entry key="ide.dfa.time.limit.online" value="999999" />
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.max.recent.projects" value="100" />
     <entry key="ide.popup.auto.delay" value="10" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="9999" />
-    <entry key="ide.tree.checkStructure" value="true" />
-    <entry key="ide.tree.expandRecursionDepth" value="9999" />
-    <entry key="ide.tree.uiLockAttempt" value="10" />
-    <entry key="ide.tree.waitForReadyTimeout" value="10" />
-    <entry key="ide.usages.page.size" value="10" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="999999" />
+    <entry key="ide.tree.expandRecursionDepth" value="999999" />
     <entry key="navBar.updateMergeTime" value="10" />
     <entry key="navBar.userActivityMergeTime" value="10" />
-    <entry key="psi.incremental.reparse.depth.limit" value="9999" />
+    <entry key="psi.incremental.reparse.depth.limit" value="999999" />
     <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
@@ -54,7 +50,6 @@
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="file.chooser.async.tree.model" value="true" />
-    <entry key="ide.check.psi.text.consistency" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.enable.toolwindow.stack" value="true" />
     <entry key="ide.find.enter.as.ok" value="true" />
@@ -82,9 +77,10 @@
     <entry key="vcs.log.index.force" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
     <entry key="git.blocking.read" value="false" />
-    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
-    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
-    <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
-    <entry key="actionSystem.secondKeystrokePopupTimeout" value="10" />
+    <entry key="ide.usages.page.size" value="10" />
+    <entry key="ide.check.psi.text.consistency" value="true" />
+    <entry key="ide.tree.checkStructure" value="true" />
+    <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
+    <entry key="editor.virtual.lines" value="10" />
   </component>
 </application>
