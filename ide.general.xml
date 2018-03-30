@@ -28,7 +28,7 @@
     <entry key="ide.autoscroll.from.source.delay" value="10" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.dfa.state.limit" value="99999" />
-    <entry key="ide.dfa.time.limit.online" value="9999" />
+    <entry key="ide.dfa.time.limit.online" value="99999" />
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.max.recent.projects" value="100" />
@@ -82,5 +82,9 @@
     <entry key="vcs.log.index.force" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
     <entry key="git.blocking.read" value="false" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="10" />
   </component>
 </application>
