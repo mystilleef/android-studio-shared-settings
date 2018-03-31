@@ -4,9 +4,6 @@
       <action id="Refactorings.QuickListPopupAction">
         <abbreviation name="ref" />
       </action>
-      <action id="ShowRegistry">
-        <abbreviation name="reg" />
-      </action>
       <action id="RefactoringMenuRenameFile">
         <abbreviation name="rnmf" />
       </action>
@@ -17,8 +14,8 @@
         <abbreviation name="rst" />
         <abbreviation name="reboot" />
       </action>
-      <action id="RenameElement">
-        <abbreviation name="rnm" />
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
       </action>
       <action id="ShowReformatFileDialog">
         <abbreviation name="rfmd" />
@@ -26,8 +23,14 @@
       <action id="CheckinProject">
         <abbreviation name="cmt" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="rfm" />
+      <action id="CloseProject">
+        <abbreviation name="cls" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+      </action>
+      <action id="ShowRegistry">
+        <abbreviation name="reg" />
       </action>
     </abbreviations>
   </component>

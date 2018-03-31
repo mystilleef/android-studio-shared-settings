@@ -66,5 +66,6 @@
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
     <entry key="actionSystem.playback.delay" value="10" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
   </component>
 </application>
