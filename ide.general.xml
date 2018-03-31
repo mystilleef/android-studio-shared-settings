@@ -84,6 +84,9 @@
     <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
     <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
     <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
-    <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="spy.js.realtime.evaluation" value="true" />
+    <entry key="javafx.fxml.controller.from.loader" value="true" />
+    <entry key="idea.4.5.laf.enabled" value="true" />
   </component>
 </application>
