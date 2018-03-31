@@ -62,5 +62,9 @@
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="ide.enable.toolwindow.stack" value="true" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
+    <entry key="actionSystem.playback.delay" value="10" />
+    <entry key="actionSystem.focusIdleTimeout" value="10" />
   </component>
 </application>
