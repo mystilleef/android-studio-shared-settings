@@ -80,10 +80,10 @@
     <entry key="ide.popup.auto.delay" value="10" />
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="ide.autoscroll.from.source.delay" value="10" />
-    <entry key="actionSystem.secondKeystrokePopupTimeout" value="1000" />
-    <entry key="actionSystem.secondKeystrokeTimeout" value="1000" />
-    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="1000" />
-    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="1000" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="10" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
   </component>
 </application>
