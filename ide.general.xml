@@ -58,7 +58,7 @@
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="compiler.ref.index" value="true" />
-    <entry key="core.pooled.threads" value="5" />
+    <entry key="core.pooled.threads" value="1000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="caches.indexerThreadsCount" value="5" />
