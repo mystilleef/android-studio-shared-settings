@@ -62,6 +62,7 @@
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
     <option name="REPLACE_INSTANCEOF" value="true" />
     <option name="REPLACE_CAST" value="true" />
+    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
@@ -243,12 +244,10 @@
     <option name="ASSERT_STATEMENT_WRAP" value="5" />
     <option name="ASSERT_STATEMENT_COLON_ON_NEXT_LINE" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
-    <option name="METHOD_ANNOTATION_WRAP" value="5" />
-    <option name="CLASS_ANNOTATION_WRAP" value="5" />
     <option name="FIELD_ANNOTATION_WRAP" value="5" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
-    <option name="ENUM_CONSTANTS_WRAP" value="5" />
+    <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -484,6 +483,7 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
                 <STATIC>true</STATIC>
               </AND>
             </match>
