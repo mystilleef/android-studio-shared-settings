@@ -25,7 +25,6 @@
     <entry key="java.completion.argument.live.template.completion" value="true" />
     <entry key="java.completion.argument.live.template" value="true" />
     <entry key="java.annotations.inference.nullable.method" value="true" />
-    <entry key="inplace.change.signature" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="ide.svg.icon" value="true" />
@@ -35,7 +34,6 @@
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.lookup.preview.insertion" value="true" />
-    <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
     <entry key="ide.helptooltip.enabled" value="true" />
     <entry key="ide.find.enter.as.ok" value="true" />
