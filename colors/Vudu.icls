@@ -1,10 +1,10 @@
 <scheme name="Vudu" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-03-21T22:42:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-03-29T04:43:04</property>
+    <property name="modified">2018-04-14T03:04:44</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -510,12 +510,14 @@
       <value>
         <option name="FOREGROUND" value="5a5a5a" />
         <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="5a5a5a" />
         <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="5a5a5a" />
       </value>
     </option>
     <option name="Instance property reference ID">
