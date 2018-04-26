@@ -63,7 +63,7 @@
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="ide.enable.toolwindow.stack" value="true" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
-    <entry key="actionSystem.playback.delay" value="10" />
+    <entry key="actionSystem.playback.delay" value="1000" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="editor.virtual.lines" value="10" />
@@ -71,18 +71,18 @@
     <entry key="ide.tree.autoExpandMaxDepth" value="999999" />
     <entry key="ide.tree.expandRecursionDepth" value="999999" />
     <entry key="psi.incremental.reparse.depth.limit" value="999999" />
-    <entry key="structureView.coalesceTime" value="10" />
-    <entry key="navBar.userActivityMergeTime" value="10" />
-    <entry key="navBar.updateMergeTime" value="10" />
-    <entry key="ide.tree.waitForReadyTimeout" value="10" />
-    <entry key="ide.tree.uiLockAttempt" value="10" />
-    <entry key="ide.popup.auto.delay" value="10" />
-    <entry key="ide.goto.rebuild.delay" value="10" />
-    <entry key="ide.autoscroll.from.source.delay" value="10" />
-    <entry key="actionSystem.secondKeystrokePopupTimeout" value="10" />
-    <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
-    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
-    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
+    <entry key="structureView.coalesceTime" value="1000" />
+    <entry key="navBar.userActivityMergeTime" value="1000" />
+    <entry key="navBar.updateMergeTime" value="1000" />
+    <entry key="ide.tree.waitForReadyTimeout" value="1000" />
+    <entry key="ide.tree.uiLockAttempt" value="1000" />
+    <entry key="ide.popup.auto.delay" value="1000" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
+    <entry key="ide.autoscroll.from.source.delay" value="1000" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="1000" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="1000" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="1000" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="1000" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
     <entry key="spy.js.realtime.evaluation" value="true" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
