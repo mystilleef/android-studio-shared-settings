@@ -11,7 +11,6 @@
   <component name="Registry">
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
     <entry key="ide.tree.checkStructure" value="true" />
-    <entry key="ide.check.psi.text.consistency" value="true" />
     <entry key="ide.dfa.state.limit" value="999999" />
     <entry key="ide.dfa.time.limit.online" value="999999" />
     <entry key="git.blocking.read" value="false" />
@@ -67,10 +66,6 @@
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="editor.virtual.lines" value="10" />
-    <entry key="custom.folding.max.lookup.depth" value="999999" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="999999" />
-    <entry key="ide.tree.expandRecursionDepth" value="999999" />
-    <entry key="psi.incremental.reparse.depth.limit" value="999999" />
     <entry key="structureView.coalesceTime" value="1000" />
     <entry key="navBar.userActivityMergeTime" value="1000" />
     <entry key="navBar.updateMergeTime" value="1000" />
