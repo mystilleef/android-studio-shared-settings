@@ -62,5 +62,6 @@
     <entry key="deployment.BouncyCastleJCE" value="true" />
     <entry key="diff.verify.iterable" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="core.pooled.threads" value="5" />
   </component>
 </application>
