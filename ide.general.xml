@@ -10,8 +10,8 @@
   </component>
   <component name="Registry">
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
-    <entry key="compiler.automake.trigger.delay" value="5000" />
-    <entry key="compiler.document.save.trigger.delay" value="5000" />
+    <entry key="compiler.automake.trigger.delay" value="10000" />
+    <entry key="compiler.document.save.trigger.delay" value="10000" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="compiler.ref.index" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
@@ -48,7 +48,6 @@
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="editor.breadcrumbs.marker" value="true" />
     <entry key="editor.keep.completion.hints.longer" value="true" />
     <entry key="editor.keep.completion.hints.even.longer" value="true" />
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
