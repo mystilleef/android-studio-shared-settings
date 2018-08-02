@@ -17,7 +17,7 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="editor.navigation.history.stack.size" value="100" />
     <entry key="editor.reformat.on.typing" value="true" />
-    <entry key="editor.soft.wrap.force.limit" value="79" />
+    <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
@@ -55,5 +55,12 @@
     <entry key="javascript.flow.lazy.mode" value="true" />
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.strictImportGraph" value="true" />
+    <entry key="deployment.BouncyCastleJCE" value="true" />
+    <entry key="diff.verify.iterable" value="true" />
+    <entry key="vcs.push.all.with.commits" value="true" />
   </component>
 </application>
