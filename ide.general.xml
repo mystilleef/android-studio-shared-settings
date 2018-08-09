@@ -13,7 +13,6 @@
     <entry key="compiler.automake.trigger.delay" value="10000" />
     <entry key="compiler.document.save.trigger.delay" value="10000" />
     <entry key="caches.indexerThreadsCount" value="5" />
-    <entry key="compiler.ref.index" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="editor.navigation.history.stack.size" value="100" />
     <entry key="editor.reformat.on.typing" value="true" />
@@ -23,7 +22,6 @@
     <entry key="search.everywhere.structure" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="undo.documentUndoLimit" value="1000" />
-    <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
@@ -42,7 +40,7 @@
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.log.index.force" value="true" />
     <entry key="git.blocking.read" value="false" />
-    <entry key="ide.dfa.time.limit.online" value="60000" />
+    <entry key="ide.dfa.time.limit.online" value="999999" />
     <entry key="ide.dfa.state.limit" value="999999" />
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
