@@ -55,7 +55,7 @@
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
     <entry key="ide.helptooltip.enabled" value="true" />
-    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="false" />
     <entry key="cidr.indexer.strictImportGraph" value="true" />
     <entry key="deployment.BouncyCastleJCE" value="true" />
     <entry key="diff.verify.iterable" value="true" />
