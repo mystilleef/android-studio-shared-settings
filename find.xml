@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/com/android/example/rally/MainActivity.java [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/com/android/example/rally/MainActivity.java [app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/android/example/rally/MainActivity.java [app]'" />
-  </component>
-</application>
