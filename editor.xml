@@ -22,5 +22,6 @@
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="true" />
     <option name="showCssInlineColorPreview" value="true" />
+    <option name="tagTreeHighlightingLevelCount" value="10" />
   </component>
 </application>
