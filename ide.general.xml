@@ -25,8 +25,7 @@
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
-    <entry key="caches.indexerThreadsCount" value="5" />
-    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="cidr.indexer.thread.count" value="0" />
     <entry key="compiler.automake.postpone.when.idle.less.than" value="10000" />
     <entry key="compiler.automake.trigger.delay" value="10000" />
     <entry key="compiler.document.save.enabled" value="true" />
@@ -67,5 +66,7 @@
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="caches.indexerThreadsCount" value="0" />
+    <entry key="core.pooled.threads" value="100" />
   </component>
 </application>
