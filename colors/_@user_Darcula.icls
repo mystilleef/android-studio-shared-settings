@@ -3,17 +3,17 @@
     <property name="created">2018-09-12T01:23:47</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.8</property>
-    <property name="modified">2018-09-12T02:31:55</property>
+    <property name="modified">2018-09-12T11:34:00</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="355237" />
     <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_HIJACKED" value="" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="" />
-    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="MODIFIED_LINES_COLOR" value="345a67" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="34434d" />
   </colors>
