@@ -5,7 +5,7 @@
     <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
   <component name="Registry">
-    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="false" />
     <entry key="cidr.indexer.strictImportGraph" value="true" />
     <entry key="deployment.BouncyCastleJCE" value="true" />
     <entry key="diff.verify.iterable" value="true" />
@@ -37,7 +37,6 @@
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="folding.signature.validation" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
-    <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
@@ -52,7 +51,6 @@
     <entry key="java.completion.argument.live.template" value="true" />
     <entry key="java.completion.argument.live.template.completion" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
-    <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="show.new.plugin.page" value="true" />
