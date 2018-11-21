@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Clean Code Basic" />
+  <option name="myName" value="Clean Code Plus" />
   <inspection_tool class="ARCIssues" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="AccessorsWereOverridden" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AlwaysNilVariable" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -369,7 +369,6 @@
   <inspection_tool class="MagicConstant" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MainFunctionReturnUnit" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedFormatString" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MalformedRegex" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedXPath" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ManualArrayCopy" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ManualArrayToCollectionCopy" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -534,7 +533,7 @@
   <inspection_tool class="RedundantSamConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantStreamOptionalCall" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantStringFormatCall" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RedundantStringOperationMerged" />
   <inspection_tool class="RedundantSuspendModifier" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantUnitExpression" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantWith" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -685,7 +684,6 @@
   <inspection_tool class="UnnecessarilyQualifiedStaticallyImportedElement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryBoxing" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryBreak" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="UnnecessaryCallToStringValueOf" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryConstantArrayCreationExpression" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryContinue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryEmptyArrayUsage" enabled="false" level="WARNING" enabled_by_default="false" />
