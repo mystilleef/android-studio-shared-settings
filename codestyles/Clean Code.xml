@@ -11,16 +11,19 @@
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="80" />
   <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
       <value>
         <option name="WRAP_ATTRIBUTES" value="4" />
         <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
       </value>
     </option>
     <option name="MANIFEST_SETTINGS">
       <value>
         <option name="WRAP_ATTRIBUTES" value="4" />
         <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
       </value>
     </option>
     <option name="VALUE_RESOURCE_FILE_SETTINGS">
@@ -32,6 +35,7 @@
       <value>
         <option name="WRAP_ATTRIBUTES" value="4" />
         <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
@@ -185,6 +189,7 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="BLANK_LINES_AFTER_ANONYMOUS_CLASS_HEADER" value="1" />
+    <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
