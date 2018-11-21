@@ -6,9 +6,7 @@
     <option name="accentColor" value="80cbc4" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="32" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="compactDropdowns" value="true" />
+    <option name="useMaterialFont2" value="true" />
     <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="-26cd691a:165cc00b883:-8000" />
     <option name="allowDataCollection" value="true" />
