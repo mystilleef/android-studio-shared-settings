@@ -1,7 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Clean Code" />
   <inspection_tool class="ARCIssues" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="AndroidLintAppLinksAutoVerifyError" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AndroidLintAppLinksAutoVerifyWarning" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AndroidLintBackButton" enabled="true" level="WARNING" enabled_by_default="true" />
