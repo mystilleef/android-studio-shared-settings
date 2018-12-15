@@ -247,7 +247,6 @@
   <inspection_tool class="JavaReflectionMemberAccess" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JavaStylePropertiesInvocation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavadocHtmlLint" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="KDocMissingDocumentation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="KeySetIterationMayUseEntrySet" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LambdaBodyCanBeCodeBlock" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="LambdaCanBeReplacedWithAnonymous" enabled="false" level="INFORMATION" enabled_by_default="false" />
@@ -359,7 +358,9 @@
   <inspection_tool class="RedundantMethodOverride" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantNotNullExtensionReceiverOfInline" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="RedundantStringOperationMerged" />
-  <inspection_tool class="Reformat" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="Reformat" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="processChangedFilesOnly" value="true" />
+  </inspection_tool>
   <inspection_tool class="RefusedBequest" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreEmptySuperMethods" value="false" />
     <option name="onlyReportWhenAnnotated" value="true" />
@@ -426,6 +427,7 @@
   <inspection_tool class="StringConstructor" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreSubstringArguments" value="false" />
   </inspection_tool>
+  <inspection_tool class="StringOperationCanBeSimplifiedMerged" />
   <inspection_tool class="SubtractionInCompareTo" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SuperTearDownInFinally" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SuspiciousArrayCast" enabled="true" level="WARNING" enabled_by_default="true" />
