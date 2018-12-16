@@ -1,8 +1,11 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="FORCE_CLASSIC_VM" value="false" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="SKIP_CONSTRUCTORS" value="true" />
     <option name="SKIP_GETTERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="KILL_PROCESS_IMMEDIATELY" value="true" />
     <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -96,7 +99,10 @@
     <data-views>
       <option name="valueLookupDelay" value="1000" />
     </data-views>
-    <general />
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="kotlin_debugger">
         <configuration>
