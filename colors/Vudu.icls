@@ -4,7 +4,7 @@
     <property name="created">2018-12-14T22:03:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2018-12-16T01:36:06</property>
+    <property name="modified">2018-12-16T01:51:14</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -480,7 +480,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1b3f2b" />
-        <option name="EFFECT_COLOR" value="48595f" />
+        <option name="EFFECT_COLOR" value="3d5157" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
@@ -842,7 +842,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3f1e1e" />
-        <option name="EFFECT_COLOR" value="48595f" />
+        <option name="EFFECT_COLOR" value="445157" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
