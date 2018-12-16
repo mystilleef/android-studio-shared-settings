@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
@@ -37,7 +36,6 @@
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
-    <entry key="index.run.configuration.jre" value="false" />
     <entry key="java.completion.argument.live.template" value="true" />
     <entry key="java.completion.argument.live.template.completion" value="true" />
     <entry key="search.everywhere.settings" value="true" />
