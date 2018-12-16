@@ -1,5 +1,9 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="SKIP_CONSTRUCTORS" value="true" />
+    <option name="SKIP_GETTERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -76,15 +80,24 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_STATIC" value="true" />
+      <option name="SHOW_STATIC_FINAL" value="true" />
+      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+      <option name="SHOW_STRINGS_TYPE" value="true" />
+    </Renderer>
+    <Renderer ID="PrimitiveRenderer">
+      <option name="SHOW_HEX_VALUE" value="true" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="1000" />
+    </data-views>
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
-        </configuration>
-      </debugger>
       <debugger id="kotlin_debugger">
         <configuration>
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />

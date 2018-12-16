@@ -19,14 +19,10 @@
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
-    <entry key="compiler.document.save.enabled" value="true" />
-    <entry key="editor.keep.completion.hints.even.longer" value="true" />
-    <entry key="editor.keep.completion.hints.longer" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
-    <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
@@ -41,5 +37,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
   </component>
 </application>
