@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="gradle map">
+      <action id="ShowIntentionActions" />
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
