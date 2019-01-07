@@ -40,5 +40,8 @@
     <entry key="search.everywhere.structure" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="ide.completion.typo.tolerance" value="true" />
+    <entry key="java.completion.enable.ml.ranking" value="true" />
+    <entry key="java.completion.ml.exit.experiment" value="true" />
   </component>
 </application>
