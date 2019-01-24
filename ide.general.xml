@@ -43,5 +43,7 @@
     <entry key="ide.completion.typo.tolerance" value="true" />
     <entry key="java.completion.enable.ml.ranking" value="true" />
     <entry key="java.completion.ml.exit.experiment" value="true" />
+    <entry key="compiler.automake.postpone.when.idle.less.than" value="10000" />
+    <entry key="compiler.automake.trigger.delay" value="10000" />
   </component>
 </application>
