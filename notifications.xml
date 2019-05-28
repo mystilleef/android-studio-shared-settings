@@ -8,7 +8,7 @@
     <notification groupId="FindBugs: Plugin Suggestion" displayType="STICKY_BALLOON" />
     <notification groupId="FindBugs: R-File Filter Suggestion" displayType="STICKY_BALLOON" />
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
-    <notification groupId="Gradle Notification Group" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Indexing" />
     <notification groupId="Plugins AutoSwitch" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
