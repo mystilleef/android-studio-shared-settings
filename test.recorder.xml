@@ -1,8 +1,0 @@
-<application>
-  <component name="TestRecorderSettings">
-    <option name="EVALUATION_DEPTH" value="10" />
-    <option name="SCROLL_DEPTH" value="10" />
-    <option name="ASSERTION_DEPTH" value="10" />
-    <option name="ENABLE_TEST_FRAGMENT_RECORDING" value="true" />
-  </component>
-</application>
