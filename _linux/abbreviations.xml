@@ -43,6 +43,9 @@
         <abbreviation name="sync" />
         <abbreviation name="syn" />
       </action>
+      <action id="ShowSettings">
+        <abbreviation name="sts" />
+      </action>
       <action id="IntroduceField">
         <abbreviation name="exf" />
       </action>
