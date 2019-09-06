@@ -4,7 +4,7 @@
     <property name="created">2019-09-02T20:57:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-06T04:42:11</property>
+    <property name="modified">2019-09-06T05:35:51</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -107,6 +107,8 @@
         <option name="FOREGROUND" value="668089" />
       </value>
     </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -622,6 +624,7 @@
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="283136" />
@@ -671,6 +674,8 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="912929" />
@@ -685,7 +690,7 @@
     </option>
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
-        <option name="FOREGROUND" value="600091" />
+        <option name="FOREGROUND" value="3e1d1d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -694,6 +699,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value>
         <option name="FOREGROUND" value="cccccc" />
@@ -747,6 +753,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
@@ -754,9 +766,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_COLOR" value="555555" />
@@ -800,12 +810,6 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
         <option name="BACKGROUND" value="253f26" />
-      </value>
-    </option>
-    <option name="KOTLIN_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="912929" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_SYNTHETIC_EXTENSION_PROPERTY">
@@ -1136,12 +1140,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="916c3b" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="BACKGROUND" value="283136" />

@@ -67,5 +67,6 @@
     <entry key="vcs.ignorefile.generation" value="true" />
     <entry key="vcs.log.index.force" value="true" />
     <entry key="vcs.log.recent.commits.count" value="10" />
+    <entry key="search.everywhere.disable.history.for.all" value="true" />
   </component>
 </application>
