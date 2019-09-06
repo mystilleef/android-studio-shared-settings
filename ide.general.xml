@@ -44,7 +44,6 @@
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="clipboard.history.max.items" value="10" />
-    <entry key="diff.unimportant.line.char.count" value="3" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.find.as.popup.max.rows" value="10" />
@@ -57,5 +56,16 @@
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="100" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="deployment.BouncyCastleJCE" value="true" />
+    <entry key="cidr.psi.light" value="true" />
+    <entry key="git.log.fix.merge.commits.parents.order" value="true" />
+    <entry key="git.update.incoming.info.time" value="10" />
+    <entry key="ide.hide.excluded.files" value="true" />
+    <entry key="vcs.ignorefile.generation" value="true" />
+    <entry key="vcs.log.index.force" value="true" />
+    <entry key="vcs.log.recent.commits.count" value="10" />
   </component>
 </application>
