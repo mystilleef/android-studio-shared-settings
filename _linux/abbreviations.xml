@@ -1,0 +1,33 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CloseProject">
+        <abbreviation name="cls" />
+      </action>
+      <action id="ShowRegistry">
+        <abbreviation name="reg" />
+      </action>
+      <action id="ShowSettings">
+        <abbreviation name="sts" />
+      </action>
+      <action id="ToggleReadOnlyAttribute">
+        <abbreviation name="ro" />
+      </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="rst" />
+      </action>
+      <action id="RenameFile">
+        <abbreviation name="rnmf" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
