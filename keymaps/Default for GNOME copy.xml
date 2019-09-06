@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ShowRecentTests" />
   <action id="ToggleReadOnlyAttribute">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>

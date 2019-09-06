@@ -1,0 +1,7 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="blameStatusAuthorNameType" value="INITIALS" />
+    <option name="absoluteDateTimeStyle" value="DMY_TIME" />
+    <option name="previousVersionMigrated" value="true" />
+  </component>
+</application>
